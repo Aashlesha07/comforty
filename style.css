@@ -1,0 +1,52 @@
+#navigation
+{
+    border-bottom: 2px solid green;
+}
+.para
+{
+    margin-top: 80px;
+}
+.card-img-top{
+    width: 40px;
+}
+.ca{
+    margin-left: 350px !important;
+}
+.middle
+{
+    font-size: 50px;
+    padding-bottom: 20px ;
+    color: aliceblue;
+    background-color: rgb(52, 202, 52);
+    font-family: sans-serif;
+}
+.mid
+{
+    background-color: rgb(52, 202, 52);
+    height: 170px;
+    
+}
+.btn
+{
+    margin-top: 80px;
+    background-color: white;
+    padding-left: 15px;
+    padding-right: 15px ;
+    border-radius: 20px;
+}
+.btn:hover
+{
+    background-color: #C0C0C0
+
+}
+.Rights
+{
+    padding-top:20px;
+    padding-bottom: 20px;
+    height: 64px;
+    margin-bottom: 0;
+}
+.logo
+{
+    height: 64px;
+}
